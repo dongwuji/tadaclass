@@ -124,6 +124,10 @@ nav .menu {
 }
 
 .center .btns button:last-child {
+  background: none;
+  color: white;
+}
+.center .btns button:last-child:hover {
   background: white;
   color: black;
 }
